@@ -2,6 +2,8 @@
 
 A modern and responsive personal finance tracking application built with React and Bootstrap. This application helps users manage their expenses with an intuitive dashboard, visual charts, and comprehensive expense management features.
 
+🌐 **Live Demo**: [spend-smart-expense.netlify.app](https://spend-smart-expense.netlify.app)
+
 ## 🌟 Features
 
 ### 💰 Expense Management
