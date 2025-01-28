@@ -102,14 +102,6 @@ The application is fully responsive and works seamlessly on:
 
 All data is stored locally in your browser using localStorage. No data is sent to any external servers.
 
-## 🤝 Contributing
-
-This project is currently not accepting contributions as it's maintained solely by the owner.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👤 Author
 
 **Mohaddeseh Safari**
