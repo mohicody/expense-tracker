@@ -1,6 +1,6 @@
-# Expense Tracker
+# Spend Smart
 
-A modern and responsive expense tracking application built with React and Bootstrap. This application helps users manage their expenses with an intuitive dashboard, visual charts, and comprehensive expense management features.
+A modern and responsive personal finance tracking application built with React and Bootstrap. This application helps users manage their expenses with an intuitive dashboard, visual charts, and comprehensive expense management features.
 
 ## 🌟 Features
 
