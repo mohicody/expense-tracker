@@ -46,6 +46,37 @@ A modern and responsive personal finance tracking application built with React a
 - **Context API**: For state management
 - **Local Storage**: For data persistence
 
+## 🧪 Testing
+
+This project uses Cypress for end-to-end testing to ensure reliability and functionality.
+
+### Running Tests
+
+1. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+2. Run Cypress tests in interactive mode:
+   ```bash
+   npm run cypress:open
+   ```
+
+3. Or run tests headlessly:
+   ```bash
+   npm run test:e2e
+   ```
+
+### Test Coverage
+
+The test suite includes:
+- ✅ Adding new expenses
+- ✅ Searching and filtering expenses
+- ✅ Budget management
+- ✅ Category filtering
+- ✅ Expense deletion
+- ✅ UI components visibility
+
 ## 🛠️ Installation and Setup
 
 1. Clone the repository:
