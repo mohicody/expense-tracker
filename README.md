@@ -46,36 +46,6 @@ A modern and responsive personal finance tracking application built with React a
 - **Context API**: For state management
 - **Local Storage**: For data persistence
 
-## 🧪 Testing
-
-This project uses Jest and React Testing Library for comprehensive testing of components and functionality.
-
-### Running Tests
-
-1. Run all tests:
-   ```bash
-   npm test
-   ```
-
-2. Run tests in watch mode (development):
-   ```bash
-   npm run test:watch
-   ```
-
-3. Generate test coverage report:
-   ```bash
-   npm run test:coverage
-   ```
-
-### Test Coverage
-
-The test suite includes:
-- ✅ Component rendering tests
-- ✅ User interaction tests
-- ✅ State management tests
-- ✅ Integration tests
-- ✅ LocalStorage persistence tests
-
 ## 🛠️ Installation and Setup
 
 1. Clone the repository:
